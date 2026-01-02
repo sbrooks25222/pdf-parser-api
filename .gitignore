@@ -11,5 +11,8 @@ __pycache__/
 # Generated output
 output/
 
+# Sample PDFs (do not commit binaries)
+samples/*.pdf
+
 # OS / editor files
 .DS_Store
