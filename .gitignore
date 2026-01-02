@@ -1,0 +1,15 @@
+# Virtual environments
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local databases
+*.db
+
+# Generated output
+output/
+
+# OS / editor files
+.DS_Store
